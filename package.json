@@ -11,5 +11,9 @@
     "@types/node": "^18",
     "nuxt": "^3.6.0",
     "typescript": "latest"
+  },
+  "dependencies": {
+    "@nuxt-fable/layer": "^0.0.9",
+    "nuxt-icon": "^0.4.1"
   }
 }
