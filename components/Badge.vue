@@ -16,7 +16,7 @@
       }[color],
     }"
   >
-    <!-- default slot content -->
+    <!-- @slot default slot content -->
     <slot>
       {{ content }}
     </slot>
